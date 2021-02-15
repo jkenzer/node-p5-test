@@ -1,3 +1,6 @@
+// Credit to @dipamsen
+// https://github.com/CodingTrain/node-p5-test/issues/1
+
 const w = 4880,
   h = 1500;
 const { saveAsPNG, setupWindow } = require("./functions");

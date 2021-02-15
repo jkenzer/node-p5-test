@@ -1,3 +1,6 @@
+// Credit to @dipamsen
+// https://github.com/CodingTrain/node-p5-test/issues/1
+
 const w = 400,
 const h = 400;
 setupWindow(w, h);
