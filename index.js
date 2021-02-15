@@ -1,3 +1,6 @@
+// Not working. This is as far as I got before seeing dipamsen's solution.
+// You can find working code in instancemode.js or sketch.js
+
 const jsdom = require("jsdom");
 const { JSDOM } = jsdom;
 const { createCanvas } = require("canvas");
